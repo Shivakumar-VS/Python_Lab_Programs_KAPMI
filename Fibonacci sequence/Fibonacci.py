@@ -1,5 +1,5 @@
 #program to check if a number is a Fibonacci number or not
-a = int(input("Enter a number: "))
+n = int(input("Enter a number: "))
 
 c = 0
 b = 1
