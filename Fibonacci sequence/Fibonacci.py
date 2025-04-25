@@ -6,7 +6,7 @@ b = 1
 a = 1
 #check if the number is 0 or 1
 if n == 0 or n == 1:
-    Print("Yes")
+    print("Yes")
 else:
     while c < n:
         c = a + b
