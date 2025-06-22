@@ -1,3 +1,4 @@
+# Python program to solve quadratic equation_roots
 import math
 def equation_roots(a,b,c):
     dis = b * b - 4 * a * c
